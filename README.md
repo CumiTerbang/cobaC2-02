@@ -1,0 +1,1 @@
+coba2 bikin game pakek Construct2 trus gabung ke phonegap manual
